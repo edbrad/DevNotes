@@ -1,0 +1,8 @@
+* Must be Run as Administrator
+
+(venv) C:\py\pyTeamDirectory>pip install django
+Collecting django
+  Downloading Django-1.10.4-py2.py3-none-any.whl (6.8MB)
+    100% |################################| 6.8MB 190kB/s
+Installing collected packages: django
+Successfully installed django-1.10.4
