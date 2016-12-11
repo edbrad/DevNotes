@@ -1,0 +1,11 @@
+* Must be Installed as Administrator
+
+C:\Users\Edward Bradley>pip --version
+pip 9.0.1 from c:\program files (x86)\python35-32\lib\site-packages (python 3.5)
+
+C:\Users\Edward Bradley>pip install virtualenv
+Collecting virtualenv
+  Downloading virtualenv-15.1.0-py2.py3-none-any.whl (1.8MB)
+    100% |################################| 1.8MB 528kB/s
+Installing collected packages: virtualenv
+Successfully installed virtualenv-15.1.0
