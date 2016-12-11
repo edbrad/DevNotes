@@ -1,0 +1,10 @@
+* Must be Run as Administrator
+
+C:\py\pyTeamDirectory>virtualenv venv
+Using base prefix 'c:\\program files (x86)\\python35-32'
+New python executable in C:\py\pyTeamDirectory\venv\Scripts\python.exe
+Installing setuptools, pip, wheel...done.
+
+C:\py\pyTeamDirectory> venv\Scripts\activate
+
+(venv) C:\py\pyTeamDirectory>
