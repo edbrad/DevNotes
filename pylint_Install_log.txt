@@ -1,0 +1,27 @@
+**Must Be Installed as Administrator
+
+C:\Users\Edward Bradley>python -m pip install pylint
+Collecting pylint
+  Downloading pylint-1.6.4-py2.py3-none-any.whl (569kB)
+    100% |################################| 573kB 1.4MB/s
+Collecting astroid<1.5.0,>=1.4.5 (from pylint)
+  Downloading astroid-1.4.8-py2.py3-none-any.whl (213kB)
+    100% |################################| 215kB 2.3MB/s
+Collecting mccabe (from pylint)
+  Downloading mccabe-0.5.2-py2.py3-none-any.whl
+Collecting six (from pylint)
+  Downloading six-1.10.0-py2.py3-none-any.whl
+Collecting isort>=4.2.5 (from pylint)
+  Downloading isort-4.2.5-py2.py3-none-any.whl (40kB)
+    100% |################################| 40kB 892kB/s
+Collecting colorama (from pylint)
+  Downloading colorama-0.3.7-py2.py3-none-any.whl
+Collecting wrapt (from astroid<1.5.0,>=1.4.5->pylint)
+  Downloading wrapt-1.10.8.tar.gz
+Collecting lazy-object-proxy (from astroid<1.5.0,>=1.4.5->pylint)
+  Downloading lazy_object_proxy-1.2.2-cp35-cp35m-win32.whl
+Installing collected packages: wrapt, six, lazy-object-proxy, astroid, mccabe, isort, colorama, pylint
+  Running setup.py install for wrapt ... done
+Successfully installed astroid-1.4.8 colorama-0.3.7 isort-4.2.5 lazy-object-proxy-1.2.2 mccabe-0.5.2 pylint-1.6.4 six-1.10.0 wrapt-1.10.8
+You are using pip version 8.1.1, however version 9.0.1 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
