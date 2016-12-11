@@ -1,0 +1,11 @@
+* Must Be Installed as Administrator
+
+C:\Users\Edward Bradley>python -m pip install --upgrade pip
+Collecting pip
+  Downloading pip-9.0.1-py2.py3-none-any.whl (1.3MB)
+    100% |################################| 1.3MB 711kB/s
+Installing collected packages: pip
+  Found existing installation: pip 8.1.1
+    Uninstalling pip-8.1.1:
+      Successfully uninstalled pip-8.1.1
+Successfully installed pip-9.0.1
